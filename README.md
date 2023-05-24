@@ -12,16 +12,6 @@ News Tracker Application
 	BATCH ID 	B4-4M6E 
 	DOMAIN 	CLOUD APPLICATION 
 	DEVELOPMENT 
- 	 
- 
-
-						    TEAM MEMBERS------->
-						       ABDUL RAHMAN J
-						       ANBUMANI S
-						       KIRANVARMA M G
-						       VITALA P
- 
- 
 
 
 
@@ -64,11 +54,4 @@ The database will have all the details and the user can search the news by using
 
 ![image](https://github.com/Abdul-Rahman-26/NewsTracker/assets/113432797/2b1fcfcd-a039-4123-9306-8a80bc8ce430)
 
-
-
-			
-			DEMO LINK 
-			
-		https://drive.google.com/drive/folders/1EiPwWxqC6IsiL96bcUm5lljGj7rIStbM
-
-
+Demo --->>  https://drive.google.com/file/d/1_K9rFDN14RiHJGx2CV56jvf51WE2-pmG/view?usp=drive_link
