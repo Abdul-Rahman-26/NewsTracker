@@ -48,10 +48,20 @@ Integrate the application with news APIs and store the data in the database.
 The database will have all the details and the user can search the news by using a search bar.
 
 ![image](https://github.com/Abdul-Rahman-26/NewsTracker/assets/113432797/2fac79b6-20e9-4276-9fbe-911305dfe251)
+
+
 ![image](https://github.com/Abdul-Rahman-26/NewsTracker/assets/113432797/8c3315e7-0703-4fd5-8d1f-34436e5d45a0)
+
+
 ![image](https://github.com/Abdul-Rahman-26/NewsTracker/assets/113432797/1cc31729-b5d2-4e63-a5e1-788b714becb9)
+
+
 ![image](https://github.com/Abdul-Rahman-26/NewsTracker/assets/113432797/411bb6c2-3aa6-43b5-a9e2-e8fa0690f3e4)
+
+
 ![image](https://github.com/Abdul-Rahman-26/NewsTracker/assets/113432797/d654a02c-8ac8-4eb0-be64-b52f7273a86a)
+
+
 ![image](https://github.com/Abdul-Rahman-26/NewsTracker/assets/113432797/2b1fcfcd-a039-4123-9306-8a80bc8ce430)
 
 
